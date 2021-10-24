@@ -1,2 +1,3 @@
-# practicumopdracht2-verkoopprijs
-Een applicatie die de verkoopprijs berekent van een product. De verkoopprijs wordt berekend op basis van de inkoopprijs van een product en de winstmarge.
+# practicumopdracht5-rekenmachine
+Het programma vraagt de gebruiker om een operator (+, -, *, / of %) en twee getallen en toont vervolgens de som, 
+inclusief antwoord, op het scherm.
